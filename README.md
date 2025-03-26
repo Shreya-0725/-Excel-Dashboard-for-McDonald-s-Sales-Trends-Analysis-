@@ -1,4 +1,4 @@
-# McDonalds-Sales-Analysis
+# "Excel Dashboard for McDonald's Sales Trends & Analysis"
 
 ## Project Overview  
 This project analyzes McDonald's sales data to identify key trends, popular items, and overall revenue patterns using Excel. The dataset contains transaction details, including order items, prices, and sales dates.  
