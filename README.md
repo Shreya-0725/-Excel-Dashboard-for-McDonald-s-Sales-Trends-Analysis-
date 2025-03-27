@@ -8,8 +8,7 @@ This project analyzes McDonald's sales data to identify key trends, popular item
 - Identify best-selling items and revenue trends  
 - Demonstrate data cleaning, sorting, filtering, and visualization in Excel  
 
-## Dataset Description  
-- **Source:** Provided in Alex The Analyst’s tutorial  
+## Dataset Description   
 - **Columns:** Item Name, Price, Quantity Sold, Total Sales, Date, etc.  
 - **Size:** Contains multiple rows of sales data  
 
